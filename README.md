@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aaditya Chopra
+Hi there 👋
 - 👀 I’m currently working on Python and React
 - 🌱 I’m currently learning more about NLP
 -  😄 Pronouns: He/His
