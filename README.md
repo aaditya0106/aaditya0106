@@ -1,7 +1,6 @@
 Hi there 👋
-- 👀 I’m currently working on Python and React
+- 👀 I’m currently a Data Science graduate student
 - 🌱 I’m currently learning more about NLP
--  😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 4 hours everyday listening to music.
 
 <!---
